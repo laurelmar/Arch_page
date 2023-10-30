@@ -1,5 +1,5 @@
 
-# How you want to start your installation 
+# My Arch Linux installation
 
 ## 1.Arch Linux Website
 
